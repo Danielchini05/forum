@@ -6,6 +6,9 @@ function App() {
   return (
     <>
     <Rotas/>
+    <p>
+      oi
+    </p>
     </>
   );
 }
